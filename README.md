@@ -182,18 +182,7 @@ def load_dicom_series(path):
 
 ---
 
-## 🎨 Dataset Visualization Examples
 
-### 🖼️ Sample Images
-
-```
-Lung CT Slice               Segmentation Mask           Overlay
-┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
-│   ⚫    ⚫      │        │   🔴    🔴      │        │   ⚫+🔴  ⚫+🔴   │
-│     🫁  🫁      │   →   │     🟢  🟢      │   →   │     🫁+🟢 🫁+🟢  │
-│       ❤️        │        │       🔵        │        │       ❤️+🔵     │
-└─────────────────┘        └─────────────────┘        └─────────────────┘
-```
 
 ### 📊 Annotation Distribution
 ```
@@ -225,12 +214,7 @@ Tumors:      ███████░░░░░░░░░░░░░░░ 
 
 ---
 
-## ⚖️ Legal & Ethical Considerations
 
-### 📋 License Types
-- **CC BY 3.0/4.0**: Most academic datasets
-- **Institutional**: Specific terms per dataset
-- **Commercial Use**: Check individual licenses
 
 ### 🔒 Privacy & Ethics
 - All datasets are de-identified
@@ -240,47 +224,6 @@ Tumors:      ███████░░░░░░░░░░░░░░░ 
 
 ---
 
-## 🔧 Technical Requirements
-
-### 💾 Storage Requirements
-- **Full Collection**: ~50-100 TB
-- **Individual Datasets**: 1-10 GB each
-- **Recommended**: SSD for processing
-
-### 🖥️ Computing Resources
-- **RAM**: 16GB+ recommended
-- **GPU**: NVIDIA with 8GB+ VRAM
-- **CPU**: Multi-core for preprocessing
-
----
-
-## 📞 Contact & Support
-
-### 🆘 Getting Help
-- **Technical Issues**: Open GitHub issue
-- **Dataset Questions**: Contact dataset authors
-- **General Inquiries**: [Email](mailto:contact@example.com)
-
-### 🌐 Community Resources
-- **Forum**: [Medical AI Community](https://example.com)
-- **Discord**: [Join Server](https://discord.gg/example)
-- **Newsletter**: [Subscribe](https://example.com/newsletter)
-
----
-
-## 📈 Updates & Changelog
-
-### 🔄 Recent Updates
-- **2024-12**: Added TotalSegmentator v2 data
-- **2024-11**: Updated COVID-19 dataset links
-- **2024-10**: Added new thoracic organ datasets
-
-### 🔮 Upcoming Features
-- Automated data validation tools
-- Interactive dataset explorer
-- Performance benchmarking suite
-
----
 
 <div align="center">
 
@@ -294,4 +237,4 @@ Tumors:      ███████░░░░░░░░░░░░░░░ 
 
 ---
 
-*Last updated: December 2024 | Datasets: 15+ | Total Scans: 100,000+*
+*Last updated: September 2025 | Datasets: 15+ | Total Scans: 100,000+*
