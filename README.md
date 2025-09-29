@@ -239,7 +239,7 @@ Tumors:      ███████░░░░░░░░░░░░░░░ 
 
 ### 🌟 Star this repository if it helps your research!
 
-**Made with ❤️ for the medical AI community**
+**Made for the medical AI community**
 
 [⬆️ Back to Top](#-lung-ct-datasets-with-segmentation-repository)
 
