@@ -73,6 +73,16 @@ This repository serves as a centralized hub for lung CT datasets with segmentati
 | **NLST** | 75,000+ | Low-dose screening scans | Various | DICOM | [🔗 TCIA](https://www.cancerimagingarchive.net/collection/nlst/) |
 | **Lung Lobe Segmentation** | Variable | Lung lobes + trachea | Various | NIfTI | [🔗 Zenodo](https://zenodo.org/records/12690803) |
 
+
+### 🫁 Airways segmentation 
+
+| Dataset | 📂 Scans | 🏷️ Annotations | 📏 Resolution | 📱 Format | 🔗 Access |
+|---------|----------|---------------|---------------|-----------|----------|
+| **ATM’22** | 500 (300 train / 50 val / 150 test) | Full airway tree (segmentations + centerlines) | ~512×512×varies | NIfTI | [🔗 ATM’22 Challenge](https://atm22.grand-challenge.org/) |
+| **AeroPath’23** | 27 | Trachea + bronchi (airway segmentation, challenging pathology) | ~512×512×varies (0.68–0.76 mm in-plane, 0.5–1.25 mm slice thickness) | NIfTI | [🔗 GitHub](https://github.com/raidionics/AeroPath) / [🔗 Zenodo](https://doi.org/10.5281/zenodo.10069289) |
+| **AIIB23** | 285 (235 fibrotic ILD + 50 COVID-19) | Interstitial lung disease (ILD) masks + airway-informed biomarkers | ~512×512×varies | NIfTI | [🔗 AIIB23 (CodaLab / MICCAI)](https://codalab.lisn.upsaclay.fr/competitions/13238) |
+
+
 ---
 
 ## 🔍 Quick Access Links
