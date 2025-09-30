@@ -1,4 +1,4 @@
-# 🫁 Lung CT Datasets with Segmentation Repository
+#  Lung CT Datasets with Segmentation Repository
 
 <div align="center">
 
